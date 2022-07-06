@@ -12,4 +12,4 @@
 
 ## 🛠 Troubleshooting
 
-* [Page 2](troubleshooting/page-2.md)
+* [Failed to open "/etc/machine-id": No such file or directory](troubleshooting/failed-to-open-etc-machine-id-no-such-file-or-directory.md)
